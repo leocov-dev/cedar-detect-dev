@@ -26,3 +26,5 @@ Cargo.lock
 *pb2.py
 *pb2_grpc.py
 __pycache__
+
+.idea/
